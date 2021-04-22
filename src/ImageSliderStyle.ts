@@ -19,7 +19,8 @@ const basicSlide = {
   top: 0,
   width: '100%',
   height: '100%',
-  backgroundSize: 'cover'
+  backgroundSize: 'cover',
+  backgroundPosition: 'center center'
 };
 const basicNav = {
   position: 'absolute',

@@ -23,8 +23,8 @@ type ImageSliderNavigationProps = {
 
 const altNavArrowLeft = 'slide to left';
 const altNavArrowRight = 'slide to right';
-const classesArrowLeft = "slider-arrow arrow-left";
-const classesArrowRight = "slider-arrow arrow-right";
+const classesArrowLeft = 'slider-arrow arrow-left';
+const classesArrowRight = 'slider-arrow arrow-right';
 
 const ImageSliderNavigation: React.FC<ImageSliderNavigationProps> = (props: ImageSliderNavigationProps) => {
   return (
